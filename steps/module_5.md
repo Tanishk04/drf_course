@@ -184,7 +184,7 @@ curl -XPOST -F 'username=**your_username**' -F 'password=**your_password**' http
 ```
 
 ```
-http post http://api:8000/api-token-auth/ username=**your_username** password=**your_password**
+http post http://api:8000/api-token-auth/ username=admin password=admin
 ```
 
 With any luck, you should see something that looks like the following:
